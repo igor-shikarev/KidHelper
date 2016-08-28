@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/mi_config_pages" android:title="@string/title_pages_config" android:showAsAction="never"></item>
+  <item android:id="@+id/mi_guides" android:title="@string/title_guides" android:showAsAction="never" android:orderInCategory="200"></item>
+  <item android:id="@+id/mi_about" android:title="@string/title_about" android:showAsAction="never" android:orderInCategory="300"></item>
+</menu>

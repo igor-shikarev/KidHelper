@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Говори молча</string>
+
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="close">Закрыть</string>
+    <string name="exit">Выход</string>
+
+    <string name="title_pages_config">Настройка страниц</string>
+    <string name="title_about">О приложении</string>
+    <string name="title_edit">Редактировать</string>
+    <string name="title_guides">Руководство</string>
+
+    <string name="no_items">Список пуст</string>
+
+    <string name="dialog_page_delete_title">Удалить Страницу?</string>
+    <string name="dialog_page_delete_text">Текущая страница будет удалена</string>
+    <string name="dialog_page_delete_postfix">Текущая страница удалена!</string>
+
+    <string name="select_photo">Выбрать Фото</string>
+    <string name="record_voice">Запись</string>
+    <string name="stop_record">Стоп</string>
+    <string name="need_record">Вам надо записать голос!</string>
+    <string name="photo_error">Ошибка загрузки фото!</string>
+
+    <string name="left_side">Левая Сторона</string>
+    <string name="right_side">Правая Сторона</string>
+
+    <string name="border_color">Цвет рамки</string>
+</resources>

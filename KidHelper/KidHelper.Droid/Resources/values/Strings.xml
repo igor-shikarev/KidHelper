@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Speak Quietly</string>
+
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+
+    <string name="title_pages_config">Settings page</string>
+    <string name="title_about">About</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_guides">Guides</string>
+
+    <string name="no_items">No items</string>
+
+    <string name="dialog_page_delete_title">Delete Page?</string>
+    <string name="dialog_page_delete_text">Current Page will be deleted</string>
+    <string name="dialog_page_delete_postfix">Current Page was deleted!</string>
+
+    <string name="select_photo">Select Photo</string>
+    <string name="record_voice">Record Voice</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="need_record">You need to record voice!</string>
+    <string name="photo_error">Error load photo!</string>
+
+    <string name="left_side">Left Side</string>
+    <string name="right_side">Right Side</string>
+
+    <string name="border_color">Border Color</string>
+</resources>
